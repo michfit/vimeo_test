@@ -1,0 +1,33 @@
+.arrow {
+	color: red;
+	cursor: pointer;
+}
+
+Carousel {
+	background-color: gray;
+}
+
+Button {
+	text-align: left;
+}
+
+#buy {
+	background-color: #5DBCD2;
+	border: none;
+	float: left;
+}
+
+#watch {
+	float: left;
+	margin-left: 10px;
+}
+
+#caption {
+	font-size: 15px;
+}
+
+#item {
+	height: 359px;
+	width: auto;
+	margin: 10px 0px 30px 0px;
+}
